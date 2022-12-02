@@ -1,0 +1,22 @@
+@media (max-width: 940px){
+    #home-content{
+        text-align: center;
+    }
+
+    #home-container{
+        flex-direction: column-reverse;
+    }
+
+    #icons-container{
+        flex-direction: row !important;
+        margin-top: 20px;
+    }
+
+    #icons-container img{
+        width: 40px;
+    }
+
+    #scrool-down-message{
+        display: none;
+    }
+}

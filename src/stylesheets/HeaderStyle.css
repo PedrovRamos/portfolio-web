@@ -1,0 +1,8 @@
+@media (max-width: 940px){
+    #header-brand{
+        margin-left: 1px !important ;
+    }
+    #header-options{
+        margin-right: 1px !important;
+    }
+}

@@ -1,7 +1,11 @@
+import Header from './components/Header';
+import Home from './components/Home';
+
 function App() {
   return (
     <div>
-      <h1>Meu portfolio web!</h1>
+      <Header />
+      <Home />
     </div>
   );
 }
