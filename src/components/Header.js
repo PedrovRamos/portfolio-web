@@ -4,11 +4,13 @@ import '../stylesheets/HeaderStyle.css';
 function Header() {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg bg-light justify-content-center">
+      <nav
+        className="rounded-bottom
+      navbar navbar-expand-lg bg-light"
+      >
         <div className="container-fluid">
           <a
             id="header-brand"
-            style={ { marginLeft: '350px' } }
             className="navbar-brand fs-2 fw-bolder"
             href="#home-container"
           >
@@ -28,7 +30,6 @@ function Header() {
           <div className="collapse navbar-collapse" id="navbarNavDropdown">
             <ul
               id="header-options"
-              style={ { marginRight: '350px' } }
               className="navbar-nav ms-auto p-2 fs-5"
             >
               <li className="nav-item">
@@ -41,7 +42,7 @@ function Header() {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="a">Sobre</a>
+                <a className="nav-link" href="#about-section">Sobre</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="a">Skills</a>

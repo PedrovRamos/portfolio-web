@@ -1,8 +1,4 @@
 /* eslint-disable global-require */
-/* eslint-disable react/jsx-curly-spacing */
-/* eslint-disable react/jsx-curly-brace-presence */
-/* eslint-disable react/jsx-max-depth */
-
 import '../stylesheets/HomeStyle.css';
 
 function Home() {
@@ -15,24 +11,24 @@ function Home() {
       <div id="icons-container" className="d-flex gap-3 flex-column">
         <a
           href="https://github.com/PedrovRamos"
-          target={'_blank'}
+          target="_blank"
           rel="noreferrer"
         >
           <img
             className="img-fluid"
             alt="linkedin icon"
-            src={require('../images/icons8-github-48.png')}
+            src={ require('../images/icons8-github-48.png') }
           />
         </a>
         <a
           href="https://linkedin.com/in/pedro-ramos-dev"
-          target={'_blank'}
+          target="_blank"
           rel="noreferrer"
         >
           <img
             className="img-fluid"
             alt="linkedin icon"
-            src={require('../images/icons8-linkedin-48.png')}
+            src={ require('../images/icons8-linkedin-48.png') }
           />
         </a>
       </div>
@@ -49,7 +45,7 @@ function Home() {
         </div>
         <div className="fw-normal fs-5">Desenvolvedor Front End</div>
         <div
-          style={{ width: '400px' }}
+          style={ { maxWidth: '400px' } }
           className="fw-light text-break fs-6"
         >
           Responsável pela estrutura, codificação e design de uma página web,
@@ -69,7 +65,7 @@ function Home() {
         <div id="scrool-down-message" className="fw-bold mt-5">
           Role para baixo
           {' '}
-          <svg style={{ marginTop: '10px' }} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#326efd" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-corner-right-down">
+          <svg style={ { marginTop: '10px' } } xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#326efd" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-corner-right-down">
             <polyline points="10 15 15 20 20 15" />
             <path d="M4 4h7a4 4 0 0 1 4 4v12" />
           </svg>
@@ -77,10 +73,10 @@ function Home() {
       </div>
       <div>
         <img
-          width={650}
+          width={ 650 }
           className="img-fluid"
           alt="Foto principal da Homepage, foto do profissional"
-          src={require('../images/Imagem-portfolio-web.png')}
+          src={ require('../images/Imagem-portfolio-web.png') }
         />
       </div>
     </div>

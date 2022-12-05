@@ -1,0 +1,14 @@
+@media (max-width: 940px){
+    #about-section{
+        flex-direction: column ;
+        gap: 30px;
+    }
+
+    #about-text{
+        text-align: center;
+    }
+
+    #about-style{
+        margin: auto;
+    }
+}
