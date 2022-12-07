@@ -1,0 +1,10 @@
+@media (max-width: 455px){
+    #progress-bar{
+        width: 300px !important ;
+    }
+}
+@media (max-width: 340px){
+    #progress-bar{
+        width: 200px !important ;
+    }
+}
