@@ -6,7 +6,7 @@ export default function Portfolio() {
     <div id="portfolio-section" className="d-flex flex-column align-items-center p-5">
       <h3 className="fw-bold fs-1">Meu Portfólio</h3>
       <h4 className="fw-light fs-5 mb-5">
-        Aqui estão alguns projetos que eu já desenvolvi!
+        Estes são alguns projetos que eu já desenvolvi!
       </h4>
 
       <div

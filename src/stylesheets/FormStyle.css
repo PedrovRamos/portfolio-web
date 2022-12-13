@@ -1,0 +1,41 @@
+@media (max-width: 1039px){
+    #form-container{
+        max-width: 800px !important ;
+    }
+}
+
+@media (max-width: 841px){
+    #form-container{
+        max-width: 600px !important ;
+    }
+}
+
+@media (max-width: 686px){
+    #form-container{
+        max-width: 500px !important ;
+    }
+}
+
+@media (max-width: 563px){
+    #form-container{
+        max-width: 400px !important ;
+    }
+}
+
+@media (max-width: 474px){
+    #form-container{
+        max-width: 350px !important ;
+    }
+}
+
+@media (max-width: 383px){
+    #form-container{
+        max-width: 290px !important ;
+    }
+}
+
+@media (max-width: 320px){
+    #form-container{
+        max-width: 250px !important ;
+    }
+}
