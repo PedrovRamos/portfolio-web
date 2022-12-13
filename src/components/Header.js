@@ -48,7 +48,7 @@ function Header() {
                 <a className="nav-link" href="#skill-section">Skills</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="a">Portfólio</a>
+                <a className="nav-link" href="#portfolio-section">Portfólio</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="a">Contato</a>

@@ -3,7 +3,6 @@
 import '../stylesheets/SkillsBarStyle.css';
 
 export default function SkillBar(props) {
-//   const [percent, skill] = props;
   return (
     <div>
       <p className="mb-1 fw-bold">{props.skill}</p>

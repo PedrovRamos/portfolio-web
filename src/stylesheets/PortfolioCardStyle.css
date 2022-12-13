@@ -1,0 +1,5 @@
+@media (max-width: 1205px){
+    #portfolio-card{
+        max-width: 700px !important;
+    }
+}
