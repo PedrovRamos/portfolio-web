@@ -57,9 +57,9 @@ function Home() {
           <button
             type="button"
             className="btn btn-primary"
+            href="#contact-me-session"
           >
             Entre em contato
-
           </button>
         </div>
         <div id="scrool-down-message" className="fw-bold mt-5">
