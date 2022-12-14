@@ -54,13 +54,14 @@ function Home() {
 
         </div>
         <div>
-          <button
-            type="button"
-            className="btn btn-primary"
-            href="#contact-me-session"
-          >
-            Entre em contato
-          </button>
+          <a href="#contact-me-session">
+            <button
+              type="button"
+              className="btn btn-primary"
+            >
+              Entre em contato
+            </button>
+          </a>
         </div>
         <div id="scrool-down-message" className="fw-bold mt-5">
           Role para baixo
