@@ -8,7 +8,6 @@ export default function Portfolio() {
       <h4 className="fw-light fs-5 mb-5">
         Estes são alguns projetos que eu já desenvolvi!
       </h4>
-
       <div
         id="portfolio-body"
         className="d-flex justify-content-center p-5 gap-3 flex-wrap"

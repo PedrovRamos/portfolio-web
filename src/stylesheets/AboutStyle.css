@@ -1,5 +1,5 @@
 @media (max-width: 940px){
-    #about-section{
+    #about-body{
         flex-direction: column ;
         gap: 30px;
     }
