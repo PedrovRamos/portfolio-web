@@ -1,0 +1,38 @@
+#react-icon:hover {
+    transition: 0.5s;
+    color: rgb(88, 188, 255) !important;
+}
+
+#bootstrap-icon:hover {
+    transition: 0.5s;
+    color: rgba(175, 113, 255, 0.781) !important;
+}
+
+#javascript-icon:hover {
+    transition: 0.5s;
+    color: rgb(233, 255, 38) !important;
+}
+
+#css-icon:hover {
+    transition: 0.5s;
+    color: rgb(60, 112, 255) !important;
+}
+
+#html-icon:hover {
+    transition: 0.5s;
+    color: rgb(235, 66, 36) !important;
+}
+
+@media (max-width: 831px){
+    div i {
+        display: none;
+    }
+
+    #footer-container {
+        justify-content: center !important;
+    }
+
+    p {
+        text-align: center;
+    }
+}
