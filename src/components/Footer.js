@@ -9,7 +9,7 @@ export default function Footer() {
       justify-content-between"
       style={ { height: '60px', width: '90vw', margin: 'auto' } }
     >
-      <p className="m-0 text-light">© 2022 Pedro Ramos™. All Rights Reserved.</p>
+      <p className="m-0 text-light">© 2024 Pedro Ramos™. All Rights Reserved.</p>
       <div className="d-flex gap-4">
         <i
           id="react-icon"

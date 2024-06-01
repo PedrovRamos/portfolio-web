@@ -31,11 +31,11 @@ export default function About() {
           style={ { maxWidth: '500px' } }
         >
           <p>
-            Olá, me chamo Pedro Victor, tenho 18 anos e atualmente estou
-            cursando desenvolvimento web Full Stack na Trybe! Após o termino
-            do ensino médio, resolvi trabalhar com algo que sempre amei,
-            tecnologia e inovação. Meu objetivo como programador e
-            desenvolvedor web é criar soluções para problemas e assim somar
+            Olá, me chamo Pedro Victor e tenho 20 anos de idade! Sou formado em
+            Desenvolvimento Web Full-stack na instituição Trybe e atualmente trabalho
+            como analista de sistemas! Sou apaixonado por tecnologia e resolver
+            problemas!! Meu objetivo como programador e
+            desenvolvedor web, é criar soluções para problemas e assim somar
             em um time de desenvolvimento! Adoro aprender coisas novas, me
             desafiar, me superar e tenho como meta diária crescer
             profissionalmente e pessoalmente!
